@@ -1,0 +1,144 @@
+.colorbox {
+  width: 100%;
+  height: 80%;
+  background: linear-gradient(
+    to bottom,
+    rgb(11, 221, 11) 0,
+    rgb(11, 221, 11) 33%,
+    hsl(211, 95%, 30%) 33%,
+    hsl(211, 95%, 30%) 66%,
+    yellow 66%,
+    yellow 100%
+  );
+}
+.bgcol {
+  background-color: rgb(244, 244, 244);
+}
+
+.overl {
+  height: 100%;
+  width: 98%;
+
+  background-color: white;
+  margin-left: 1%;
+}
+.logo {
+  margin-left: 3vw;
+  margin-top: 3vh;
+  height: 5em;
+  width: 5em;
+}
+.buy {
+  color: hsl(211, 95%, 30%);
+  font-size: 2.3rem;
+  font-weight: bolder;
+}
+.text1 {
+  width: 100%;
+
+  font-size: 1.7em;
+}
+.leftbox {
+  margin-left: 4vw;
+}
+.web {
+  color: hsl(211, 95%, 30%);
+  font-weight: bold;
+  font-size: 1.7em;
+  margin-top: 4vh;
+}
+.rightbox {
+  margin-left: 5vw;
+  float: left;
+  position: relative;
+}
+.snapy {
+  width: 100%;
+  height: 100%;
+}
+.bigimg {
+  margin-top: 10%;
+  width: 100%;
+  float: left;
+  position: relative;
+}
+.leftb {
+  float: left;
+  position: relative;
+}
+.rightb {
+  float: left;
+  margin-left: 3vw;
+  position: relative;
+  margin-top: 3vh;
+}
+.Abns {
+  color: black;
+  font-size: 2em;
+  font-weight: 600;
+  position: relative;
+}
+.op {
+  margin-top: 5vh;
+  margin-left: 5vw;
+}
+.num {
+  font-size: 3rem;
+  font-weight: bold;
+  color: rgb(207, 208, 211);
+  position: relative;
+  margin-top: 15%;
+  margin-left: 10%;
+}
+.concept {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  margin-left: 1vw;
+  font-weight: bolder;
+  margin-top: 3vh;
+}
+.customer {
+  color: rgb(207, 208, 211);
+  margin-left: 1vw;
+  margin-top: 1vh;
+}
+.boxes {
+  border: 1px solid rgba(128, 128, 128, 0.623);
+  margin-left: 15%;
+  border-radius: 10px;
+  height: 100%;
+  position: relative;
+  width: 70%;
+  margin-top: 5vh;
+}
+.ml {
+  margin-top: 5vh;
+}
+.foot {
+  background-color: rgb(6, 44, 163);
+}
+.headingsf {
+  color: white;
+  font-size: 1.5em;
+  position: relative;
+  margin-left: 1.2em;
+  margin-top: 2em;
+}
+li {
+  list-style-type: none;
+  color: white;
+}
+.footlogo {
+  margin-top: 10%;
+  margin-left: 8%;
+}
+.headings {
+  color: white;
+  font-size: 1.5em;
+  position: relative;
+  margin-left: 1.2em;
+}
+.footlogo2 {
+  margin-left: 8%;
+}
